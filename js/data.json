@@ -1,0 +1,119 @@
+{
+  "work": [
+    {
+      "id": 1,
+      "icon": " icon fa fa-chain fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 2,
+      "icon": " icon fa fa-chain fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 3,
+      "icon": " icon fa fa-chain fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title":"Project ",
+      "img": "image/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "title":"Project ",
+      "img": "image/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "title":"Project",
+      "img": "image/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "title":"Project",
+      "img": "image/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "title":"Project",
+      "img": "image/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "title":"Project",
+      "img": "image/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "title":"Project",
+      "img": "image/portfolio-img7.jpg"
+    },
+    {
+      "id": 8,
+      "title":"Project",
+      "img": "image/portfolio-img8.jpg"
+    }
+  ],
+  "socail": [
+    {
+      "id": 1,
+      "icon": " icon fa fa-facebook fa-2x",
+      "title": "facebook",
+      "body": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 2,
+      "icon": " icon fa fa-twitter fa-2x",
+      "title": "twitter",
+      "body": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 3,
+      "icon": " icon fa fa-instagram fa-2x",
+      "title": "instagram",
+      "body": "Lorem ipsum dolor sit amet"
+    }
+  ],
+  "myInfo": [{
+    "name":"Muhammed Alaa",
+    "birthday": "29/5/1999",
+    "address": "cairo,egypt ",
+    "phone": "4444 5555 6666",
+    "email" :"alaa@gmail.com",
+    "website": "www.google.com"
+  }],
+  "skills":[
+    {
+      "id":1,
+      "name":"php",
+      "persent":"50%"
+    },
+    {
+      "id":2,
+      "name":"js",
+      "persent":"70%"
+    },
+    {
+      "id":3,
+      "name":"java",
+      "persent":"50%"
+    },
+    {
+      "id":4,
+      "name":"html",
+      "persent":"100%"
+    },
+    {
+      "id":5,
+      "name":"css",
+      "persent":"90%"
+    }
+  ]
+}
